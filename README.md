@@ -10,4 +10,6 @@
 
 3. https://github.com/noootown/Forex-DQN
 
-4. 
+4. https://github.com/EarnForex/MarketProfile
+
+5. 
