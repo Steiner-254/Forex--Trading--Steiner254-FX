@@ -6,4 +6,6 @@
 1. https://github.com/kernc/backtesting.py
 - https://kernc.github.io/backtesting.py/
 
-2. 
+2. https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop
+
+3. 
