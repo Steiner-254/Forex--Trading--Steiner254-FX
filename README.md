@@ -12,4 +12,6 @@
 
 4. https://github.com/EarnForex/MarketProfile
 
-5. 
+5. https://github.com/topics/forex-trading
+
+6. 
