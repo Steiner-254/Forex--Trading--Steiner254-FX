@@ -8,4 +8,6 @@
 
 2. https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop
 
-3. 
+3. https://github.com/noootown/Forex-DQN
+
+4. 
