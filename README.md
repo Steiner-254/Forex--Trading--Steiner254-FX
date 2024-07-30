@@ -15,3 +15,5 @@
 5. https://github.com/topics/forex-trading
 
 6. 
+
+>> `Happy Trading <3`
