@@ -2,7 +2,7 @@
 
 >> Welcome to the world of forex trading!
 
-## References
+##  Learning References
 1. https://github.com/kernc/backtesting.py
 - https://kernc.github.io/backtesting.py/
 
@@ -17,3 +17,4 @@
 6. 
 
 >> `Happy Trading <3`
+
